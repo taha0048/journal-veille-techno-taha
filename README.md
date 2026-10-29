@@ -19,4 +19,4 @@
 - Utilisation du template de portfolio pour capitaliser sur les acquis de l'atelier.
 
 ### Difficultés rencontrées
-- Ajustement de la précision des prompts pour obtenir les résultats souhaités du premier coup.
+- Aucune.
